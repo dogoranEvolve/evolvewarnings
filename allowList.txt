@@ -30,9 +30,6 @@
 *Egor_Tracers*
 *Joe_Salvatore*
 *Riccardo_Pump*
-*Maxim_Kohanovsky*
-*Alf_Dikiy*
-*Tolik_Squeezy*
 
 *Tobey_Marshall*
 *Carlos_Robles*
@@ -67,6 +64,11 @@
 *Loreno_Esposito*
 *Alessandro_Andolinni*
 *Angel_Scerty*
+*Maxim_Kohanovsky*
+*Alf_Dikiy*
+*Tolik_Squeezy*
+*Adolfo_Juarez*
+*Gabriel_Breezy*
 
 *Tim_Roth*
 *Ioan_Grozny*

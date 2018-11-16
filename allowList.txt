@@ -30,6 +30,8 @@
 *Egor_Tracers*
 *Joe_Salvatore*
 *Riccardo_Pump*
+*Vadim_Akufenko*
+*Grayson_Boucher*
 
 *Tobey_Marshall*
 *Carlos_Robles*
@@ -69,6 +71,12 @@
 *Tolik_Squeezy*
 *Adolfo_Juarez*
 *Gabriel_Breezy*
+*Logan_Blueberry*
+*Emerson_Blueberry*
+*Daniel_Terrano*
+*Akio_Omano*
+*Anthony_Rosetti*
+*Brady_Tracey*
 
 *Tim_Roth*
 *Ioan_Grozny*

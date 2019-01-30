@@ -7,12 +7,9 @@
 *Salvatore_Amici*
 *Jo_Moon*
 *Make_Lendin*
-*Alexander_Kuba*
-*Fil_Pump*
 *William_Marshal*
 *Angel_Espejo*
 *Roberto_James*
-*Jeffrey_Lewis*
 *Sesh_Jefferson*
 *Yan_Bloshkin*
 *Alen_Ways*
@@ -27,10 +24,6 @@
 *perfecto*
 *Laurence_Lawson*
 *Paulo_Rossi*
-*Brain_Strong*
-*Egor_Tracers*
-*Joe_Salvatore*
-*Riccardo_Pump*
 *Vadim_Akufenko*
 *Grayson_Boucher*
 *David_Roy*
@@ -40,7 +33,6 @@
 *Vito_Scalleto*
 *Diego_Hudson*
 *Julietta_Stark*
-*Stanislav_Rudenko*
 *Chrisstian_Norton*
 *Edward_Franklin*
 *Thomas_Lawson*

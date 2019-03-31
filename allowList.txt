@@ -54,6 +54,10 @@
 *Stanislav_Krestovskiy*
 *Dima_Mayner*
 *Alex_Family*
+*Andrey_Sheredega*
+*Jacob_Castro*
+*Attaviano_Scerty*
+*Gabriel_Bradford*
 *Maxim_Kohanovsky*
 *Alf_Dikiy*
 
@@ -81,6 +85,9 @@
 *Carl_Miller*
 *Roberto_Oppenheimer*
 *Spooner_Weiss*
+*Timur_Zlobin*
+*Christopher_Big*
+*Norton_Screen*
 
 *Tim_Roth*
 *Tobey_Marshall*

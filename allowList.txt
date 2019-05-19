@@ -74,6 +74,7 @@
 *Misha_Shancev*
 *Nikolay_Kushnarev*
 *Dario_Brunelli*
+*Keira Voight*
 *Maxim_Kohanovsky*
 *Alf_Dikiy*
 
@@ -115,6 +116,7 @@
 *Pablo_Arriano*
 *Curtis_Jackson*
 *John_Edwards*
+*Diman_Tyumencev*
 
 *Tim_Roth*
 *imba*

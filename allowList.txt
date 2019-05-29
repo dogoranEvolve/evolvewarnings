@@ -123,6 +123,11 @@
 *Curtis_Jackson*
 *John_Edwards*
 *Diman_Tyumencev*
+*Edward_Ronkov*
+*Aaron_Burkard*
+*Arturo_Kudo*
+*Diego_Aminatore*
+*Antonio_Moreti*
 
 *Tim_Roth*
 *imba*

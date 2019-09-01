@@ -52,6 +52,7 @@
 *Riki_Maru*
 *Hideri_Kanzaki*
 *Morphius_Mulphers*
+*Fill_Slipslide*
 
 
 *Butcher_Wezers*
@@ -97,6 +98,7 @@
 *John_Pirson*
 *Callisto_Quintano*
 *Maxim_Kohanovsky*
+*Alexander_Desplate*
 *Alf_Dikiy*
 
 
@@ -149,6 +151,10 @@
 *Chloe_Brown*
 *James_Brown*
 *Chon_Nike*
+*Emily_Breezy*
+*Sean_Voice*
+*Jayce_Talent*
+*Nurzhano_Rodriguez*
 
 
 *Tim_Roth*

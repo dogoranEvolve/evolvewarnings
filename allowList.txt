@@ -254,6 +254,11 @@
 *Maestro_Freeman*
 *Proga_Syntax*
 *Viktor_Volkov*
+*Alvin_Solid*
+*Diego_Lozy*
+*Alexander_Evdokimov*
+*Pavel_Kitaev*
+*Charles_Widmore*
 
 *Tim_Roth*
 *imba*

@@ -110,9 +110,6 @@
 *Leonid_Westwood*
 *Mickey_Knox*
 *Leo_Markin*
-*Akio_Omano*
-*Luciano_Bazquez*
-
 
 *Butcher_Wezers*
 *Gosha_Fantom*
@@ -202,7 +199,10 @@
 *Jon_Ortiz*
 *Sergey_Krestovsky*
 *Yuliya_Ermak*
-
+*Akio_Omano*
+*Luciano_Bazquez*
+*Oliver_Andersson*
+*Rust_Reyes*
 
 *Leonid_Litvinenko*
 *Karl_Hartmann*

@@ -203,6 +203,8 @@
 *Luciano_Bazquez*
 *Oliver_Andersson*
 *Rust_Reyes*
+*Kate_Miller*
+*Alex_Sweezy*
 
 *Leonid_Litvinenko*
 *Karl_Hartmann*

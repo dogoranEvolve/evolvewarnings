@@ -128,6 +128,12 @@
 *Kenzo_Laziness*
 *Bernhard_Rogge*
 *Kirito_Syntax*
+*Edward_Thawne*
+*Evgeny_Korolyov*
+*Mike_Corton*
+*Sergei_Dragomirov*
+*Mason_Lewis*
+*Thomas_Morales*
 
 *Butcher_Wezers*
 *Gosha_Fantom*

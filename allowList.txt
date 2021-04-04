@@ -251,6 +251,7 @@
 *Airi_Nakagawa*
 *Leaping_Lyagushovich*
 *Russell_Rogers*
+*Gonzalo_Avirson*
 
 
 
@@ -424,6 +425,12 @@
 *Ettienne_Uorriorz*
 *Francis_Maldonado*
 *Vladik_Kustov*
+*Oceanside_Tombrello*
+*James_Davis*
+*Andry_Lincoln*
+*Jesse_Axe*
+*July_Kair*
+*Kamikoto_Lee*
 
 
 *Tim_Roth*

@@ -261,6 +261,8 @@
 *Paradox_Xzoom*
 *Anton_Kolcov*
 *Skeme_Heavenly*
+*Elois_Liano*
+*Gorden_Needes*
 
 
 
@@ -442,6 +444,10 @@
 *Kamikoto_Lee*
 *Andriano_Smouk*
 *Laurence_Savary*
+*Alexandrino_Bulchi*
+*Anthony_Green*
+*Michael_Rojas*
+*Vitaliy_Kapsamun*
 
 
 *Tim_Roth*
